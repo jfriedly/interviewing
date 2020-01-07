@@ -1,4 +1,4 @@
-package com.jfriedly.interviewing.practice.generic.sorting;
+package com.jfriedly.interviewing.practice.misc.sorting;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

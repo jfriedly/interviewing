@@ -1,4 +1,4 @@
-package com.jfriedly.interviewing.practice.generic.sorting;
+package com.jfriedly.interviewing.practice.misc.sorting;
 
 import java.util.Arrays;
 

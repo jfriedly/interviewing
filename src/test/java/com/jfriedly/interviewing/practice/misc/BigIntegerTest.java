@@ -1,4 +1,4 @@
-package com.jfriedly.interviewing.practice.generic;
+package com.jfriedly.interviewing.practice.misc;
 
 import org.assertj.core.api.Assertions;
 import org.slf4j.Logger;

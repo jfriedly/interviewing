@@ -1,4 +1,4 @@
-package com.jfriedly.interviewing.practice.generic;
+package com.jfriedly.interviewing.practice.common;
 
 import java.util.Objects;
 
