@@ -1,5 +1,6 @@
 package com.jfriedly.interviewing.practice.tadm2e.cycledetection;
 
+import com.jfriedly.interviewing.practice.generic.ListNode;
 import org.assertj.core.api.Assertions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

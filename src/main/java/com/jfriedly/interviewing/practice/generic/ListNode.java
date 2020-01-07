@@ -1,4 +1,4 @@
-package com.jfriedly.interviewing.practice.tadm2e.cycledetection;
+package com.jfriedly.interviewing.practice.generic;
 
 import java.util.Objects;
 
@@ -12,6 +12,10 @@ public class ListNode {
 
     public void setNext(ListNode next) {
         this.next = next;
+    }
+
+    public int getId() {
+        return id;
     }
 
     public ListNode getNext() {

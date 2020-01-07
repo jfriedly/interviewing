@@ -1,5 +1,7 @@
 package com.jfriedly.interviewing.practice.tadm2e.cycledetection;
 
+import com.jfriedly.interviewing.practice.generic.ListNode;
+
 public class Cycle {
 
     private final ListNode head;
